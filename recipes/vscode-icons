@@ -2,5 +2,4 @@
  :fetcher github
  :repo "taquangtrung/vscode-icons.el"
  :files (:defaults
-         "vscode-icons.png"
          "icons"))
